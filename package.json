@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/colinbut/gulp-getting-started/issues"
   },
-  "homepage": "https://github.com/colinbut/gulp-getting-started#readme"
+  "homepage": "https://github.com/colinbut/gulp-getting-started#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }

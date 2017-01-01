@@ -1,0 +1,22 @@
+{
+  "name": "gulp-getting-started",
+  "version": "1.0.0",
+  "description": "Gulp Getting Started",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbut/gulp-getting-started.git"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "Colin But",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinbut/gulp-getting-started/issues"
+  },
+  "homepage": "https://github.com/colinbut/gulp-getting-started#readme"
+}

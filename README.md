@@ -1,4 +1,4 @@
-# gulp-getting-started
+# Gulp (Getting Started)
 
 What is Gulp?
 

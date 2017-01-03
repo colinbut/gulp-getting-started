@@ -13,7 +13,7 @@ IOW, Gulp is a bit like Grunt such that is a task runner for automating tedious 
 - CSS preprocessing
 - JS compression/minification
 
-##### Philosphy
+##### Philosophy
 
 - Code over configuration
 - Minimal API
